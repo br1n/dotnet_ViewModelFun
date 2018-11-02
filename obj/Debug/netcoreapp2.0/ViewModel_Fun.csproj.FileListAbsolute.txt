@@ -1,0 +1,10 @@
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/ViewModel_Fun/obj/Debug/netcoreapp2.0/ViewModel_Fun.csproj.CoreCompileInputs.cache
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/ViewModel_Fun/obj/Debug/netcoreapp2.0/ViewModel_Fun.AssemblyInfoInputs.cache
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/ViewModel_Fun/obj/Debug/netcoreapp2.0/ViewModel_Fun.AssemblyInfo.cs
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/ViewModel_Fun/bin/Debug/netcoreapp2.0/ViewModel_Fun.deps.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/ViewModel_Fun/bin/Debug/netcoreapp2.0/ViewModel_Fun.runtimeconfig.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/ViewModel_Fun/bin/Debug/netcoreapp2.0/ViewModel_Fun.runtimeconfig.dev.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/ViewModel_Fun/bin/Debug/netcoreapp2.0/ViewModel_Fun.dll
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/ViewModel_Fun/bin/Debug/netcoreapp2.0/ViewModel_Fun.pdb
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/ViewModel_Fun/obj/Debug/netcoreapp2.0/ViewModel_Fun.dll
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/ViewModel_Fun/obj/Debug/netcoreapp2.0/ViewModel_Fun.pdb
